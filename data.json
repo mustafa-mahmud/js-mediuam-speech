@@ -1,0 +1,37 @@
+[{
+	"img": "angry",
+	"text": "i'm angry"
+}, {
+	"img": "drink",
+	"text": "i'm thirsty"
+}, {
+	"img": "food",
+	"text": "i'm hungry"
+}, {
+	"img": "grandma",
+	"text": "i want to see grandma"
+}, {
+	"img": "happy",
+	"text": "i'm happy"
+}, {
+	"img": "home",
+	"text": "i want to go to home"
+}, {
+	"img": "hurt",
+	"text": "i'm hurt"
+}, {
+	"img": "outside",
+	"text": "i want to go to outside"
+}, {
+	"img": "sad",
+	"text": "i'm sad"
+}, {
+	"img": "scared",
+	"text": "i'm scared"
+}, {
+	"img": "school",
+	"text": "i want to go to school"
+}, {
+	"img": "tired",
+	"text": "i'm tired"
+}]
